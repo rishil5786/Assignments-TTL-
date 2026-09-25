@@ -14,6 +14,7 @@ This repository contains machine learning, data science, optimization, and deep 
 | **[Assignment_04.ipynb](Assignment_04.ipynb)** | **Vehicle Dataset EDA & Statistical Analysis** | Exploratory Data Analysis, distributions, correlation analysis |
 | **[Assignment_05.ipynb](Assignment_05.ipynb)** | **Sensor Failure Classification & Predictive Maintenance** | Supervised classification, `StandardScaler`, ensemble models |
 | **[Assignment_08.ipynb](Assignment_08.ipynb)** | **Sentiment Analysis & NLP on Reviews** | `TensorFlow`, `Keras`, Tokenization, sequence padding, neural networks |
+| **[Assignment_09.ipynb](Assignment_09.ipynb)** | **Model Explainability & Feature Importance** | `shap`, Permutation Importance, TreeExplainer, `scikit-learn` |
 
 ---
 
@@ -26,9 +27,9 @@ This repository contains machine learning, data science, optimization, and deep 
 ### Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
+git clone https://github.com/rishil5786/Assignments-TTL-.git
+cd Assignments-TTL-
+pip install numpy pandas matplotlib seaborn scikit-learn tensorflow shap
 ```
 
 ---
